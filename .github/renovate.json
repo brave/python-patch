@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "local>brave/renovate-config"
+  ],
+  "ignorePaths": [
+    "tests/",
+    "doc/"
+  ]
+}
